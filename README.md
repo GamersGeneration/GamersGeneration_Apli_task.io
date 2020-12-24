@@ -1,2 +1,2 @@
-# GamersGeneration_Apli_task.io
+# GamersGeneration_Apli_task
 Frontend  task for  Apli.ai intern
